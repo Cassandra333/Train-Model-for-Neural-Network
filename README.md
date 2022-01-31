@@ -1,6 +1,7 @@
 # Train-Model-for-Neural-Network
-Neural Network
-##Features bad guy characters are likely to have
+Neural Network 
+
+Features bad guy characters are likely to have
 
 Project List:
 
